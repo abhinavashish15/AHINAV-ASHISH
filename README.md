@@ -1,14 +1,13 @@
-# github-profile-view
-
 <h1 align="center">Hi 👋, I'm Abhinav Ashish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RSrVjzgo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lesbaa8cdfhy794wp41a.gif" alt="Coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavashish15&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavashish15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavashish15" alt="abhinavashish15" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on [Portfolio](https://abhinavashish15.github.io/My_Portfolio/)
+
+- 🌱 I’m currently learning **Backend web development**
 
 - 👨‍💻 All my social media are available at: [https://bio.link/abhinavashish](https://bio.link/abhinavashish)
 
