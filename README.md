@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://www.linkedin.com/in/mishraharsh-hmc/)
+![logo](https://github.com/abhinavashish15/abhinavashish15/blob/main/github%20banner.png)
 <h1 align="center">Namaste 🙏🏻, I'm
 <a href="https://github.com/abhinavashish15">Abhinav</a></h1>
 <h3 align="centre">  ... An Enthusiastic Future Software Developer Engineer </h3>
