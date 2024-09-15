@@ -4,7 +4,7 @@
 <h3 align="centre">  ... An Enthusiastic Future Software Developer Engineer </h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="900" height="500">
+  <img src="https://github.com/abhinavashish15/AHINAV-ASHISH/blob/main/banner-gif.gif" alt="Coding" width="900" height="500">
 </p>
 
 
