@@ -23,6 +23,7 @@
    -  Backend Technologies: Node.js, Express.js
    -  Web Technologies: React, Next.js, mySQL, Tailwind CSS, CSS, HTML
    -  Testing & Tools: Git, Sentry, VS Code
+- Currently working on <a href="https://github.com/runtimeTerrorSIH24/mediTech" href="SIH-project">mediTech</a>
 
 - 📫 How to reach me *mrabhinav1289@gmail.com*
 - 📄 Know about my work (RESUME) https://drive.google.com/file/d/15eaMfQCRJ6ngRN5FTGWxqZGEtv4coYVW/view?usp=drive_link
