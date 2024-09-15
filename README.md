@@ -1,7 +1,7 @@
 ![logo](https://github.com/abhinavashish15/abhinavashish15/blob/main/github%20banner.png)
 <h1 align="center">Namaste 🙏🏻, I'm
 <a href="https://github.com/abhinavashish15">Abhinav</a></h1>
-<h3 align="centre">  ... n Enthusiastic Future Software Developer Engineer ...</h3>
+<h3 align="centre">  ... an Enthusiastic Future Software Developer Engineer ...</h3>
 
 <p align="center">
   <img src="https://github.com/abhinavashish15/AHINAV-ASHISH/blob/main/banner-gif.gif" alt="Coding" width="900" height="500">
