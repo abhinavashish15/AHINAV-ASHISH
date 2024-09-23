@@ -26,7 +26,7 @@
 - Currently working on <a href="https://github.com/runtimeTerrorSIH24/mediTech" href="SIH-project">mediTech</a>
 
 - 📫 How to reach me *mrabhinav1289@gmail.com*
-- 📄 Know about my work (RESUME) https://drive.google.com/file/d/15eaMfQCRJ6ngRN5FTGWxqZGEtv4coYVW/view?usp=drive_link
+- 📄 Know about my work (RESUME) https://drive.google.com/file/d/1Se0-5sDqN0diyinBDa61rT_ib5GbPobv/view?usp=sharing
 - ⚡ Fun fact *I regularly challenge myself in chess, having outplayed seniors to win 1st prize, and when I'm not coding, I enjoy blog posts and have written a poem as well!*
 
 <h3 align="left">Connect with me:</h3>
